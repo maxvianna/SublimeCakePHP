@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Html->image(${1:\$path}, ${2:\$options = array()});]]></content>
+	<tabTrigger>c2image</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP2: $this->Html->image()</description>
+</snippet>
