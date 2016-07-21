@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->input(${1:\$fieldName}, ${2:[$3]});]]></content>
+	<tabTrigger>c3input</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP3: $this->Form->input()</description>
+</snippet>

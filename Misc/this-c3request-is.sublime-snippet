@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->request->is('$1')]]></content>
+	<tabTrigger>c3requestIs</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP3: $this->request->is()</description>
+</snippet>

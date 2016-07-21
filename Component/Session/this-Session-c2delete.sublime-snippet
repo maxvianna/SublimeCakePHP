@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Session->delete(${1:\$name});]]></content>
+	<tabTrigger>c2delete</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP2: $this->Session->delete()</description>
+</snippet>

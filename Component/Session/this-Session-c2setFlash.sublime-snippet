@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Session->setFlash(${1:\$message}, ${2:\$element = 'default'}, ${3:\$params = array()}, ${4:\$key = 'flash'});]]></content>
+	<tabTrigger>c2setFlash</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP2: $this->Session->setFlash()</description>
+</snippet>
